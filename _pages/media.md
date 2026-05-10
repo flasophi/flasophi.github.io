@@ -40,7 +40,7 @@ nav_order: 5
       </div>
       <div class="card-body">
         <h5 class="card-title">Siemens Hackathon</h5>
-        <p class="card-text">A cool project I worked on during a hackathon at Siemens Digital Industries Software. Read more <a href="https://static.sw.cdn.siemens.com/media/published/eobrSkySYKVLgAn2eDDVu/publication-291395.96a22a16ba7e/simcenter-with-chatgpt.html" target="_blank">here</a>.</p>
+        <p class="card-text">A cool project I worked on during a hackathon at Siemens Digital Industries Software.  Read more <a href="https://static.sw.cdn.siemens.com/media/published/eobrSkySYKVLgAn2eDDVu/publication-291395.96a22a16ba7e/simcenter-with-chatgpt.html" target="_blank">here</a>.</p>
       </div>
     </div>
   </div>
