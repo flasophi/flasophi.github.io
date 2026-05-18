@@ -23,7 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "teachings-data-science-fundamentals",
+        },{id: "news-i-successfully-defended-my-phd-thesis-at-ku-leuven",
+          title: 'I successfully defended my PhD thesis at KU Leuven. 🎓',
+          description: "",
+          section: "News",},{id: "news-i-started-as-a-postdoctoral-researcher-at-ku-leuven-meco-research-group",
+          title: 'I started as a Postdoctoral Researcher at KU Leuven, MECO Research Group.',
+          description: "",
+          section: "News",},{id: "news-i-started-a-2-month-research-visit-at-imt-lucca-dysco-group",
+          title: 'I started a 2-month research visit at IMT Lucca – DYSCO group.',
+          description: "",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
