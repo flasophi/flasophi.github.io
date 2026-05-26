@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-media",
+          title: "media",
+          description: "Videos featuring my research and projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/media/";
+          },
         },{id: "news-i-successfully-defended-my-phd-thesis-at-ku-leuven",
           title: 'I successfully defended my PhD thesis at KU Leuven. 🎓',
           description: "",
