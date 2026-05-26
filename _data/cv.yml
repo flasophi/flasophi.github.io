@@ -134,10 +134,10 @@ cv:
         summary: "Native speaker"
 
       - name: English
-        summary: "Proficient — C1, Cambridge Certificate in Advanced English (2014)"
+        summary: "Proficient — C1"
 
       - name: French
-        summary: "Intermediate — B2, DELF Certificate (2014)"
+        summary: "Intermediate — B2"
 
       - name: Dutch
         summary: "Basic — A2"

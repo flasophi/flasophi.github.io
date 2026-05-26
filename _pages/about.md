@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a postdoctoral researcher in the [MECO research group](https://www.mech.kuleuven.be/en/pma/research/meco/) at KU Leuven, Belgium 🇧🇪. My research focuses on combining **model predictive control**, **reinforcement learning**, and **imitation learning** to address **motion planning and control** challenges in **robotics** and **autonomous systems** 🤖🚗.
+I am a postdoctoral researcher in the [MECO research group](https://www.mech.kuleuven.be/en/pma/research/meco/) at KU Leuven, Belgium. My research focuses on combining **model predictive control**, **reinforcement learning**, and **imitation learning** to address **motion planning and control** challenges in **robotics** and **autonomous systems** 🤖🚗🛥️.
 
 I received my PhD in Engineering Science from KU Leuven in 2025, under the supervision of [Prof. Jan Swevers](https://www.mech.kuleuven.be/en/pma/research/meco/jan-swevers), [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/), and Dr. Son Tong (Siemens). My PhD, funded by a VLAIO Baekeland mandate in collaboration with Siemens Digital Industries Software, focused on learning human-like controllers from driving demonstrations to shape passenger perception in automated vehicles. I was also part of the [ELO-X](https://elo-x.eu/) Marie Skłodowska-Curie Innovative Training Network on learning and optimization-based control.
 
