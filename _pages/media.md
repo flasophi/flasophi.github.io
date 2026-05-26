@@ -32,7 +32,7 @@ nav_order: 5
       </div>
     </div>
   </div>
-  #committ
+  #make deploy
 
   <div class="col-md-6 mb-4">
     <div class="card h-100">
