@@ -55,6 +55,11 @@ cv:
       # force deploy
 
     Experience:
+      - company: Flanders Make
+        position: Project Manager
+        location: Leuven, Belgium
+        start_date: 2025
+
       - company: KU Leuven – Dept. Mechanical Engineering, MECO Research Group
         position: Postdoctoral Researcher
         location: Leuven, Belgium
