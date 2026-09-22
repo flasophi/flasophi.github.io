@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started as Project Manager of the LearnOpTra SBO project, a collaboration between Flanders Make and KU Leuven.
+I started as Project Manager of the LearnOpTra (Learning meets optimization for robust and multimodal trajectory planning) SBO project, a collaboration between Flanders Make and KU Leuven, running from 2025 to 2029.
