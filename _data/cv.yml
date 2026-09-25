@@ -117,23 +117,20 @@ cv:
     Skills:
       - name: Programming
         icon: fa-solid fa-code
-        keywords: "Python, C, C++"
+        keywords: "Python, C, C++, Bash"
 
-      - name: Scientific Computing & Optimization
-        icon: fa-solid fa-calculator
-        keywords: "Matlab, Simulink, NumPy/SciPy, CasADi"
+      - name: Libraries
+        icon: fa-solid fa-box-open
+        keywords: "CasADi, NumPy/SciPy, PyTorch, Gymnasium, Stable-Baselines3, CleanRL, OpenCV, torchvision"
 
-      - name: Controls & Robotics
-        icon: fa-solid fa-robot
-        keywords: "Model Predictive Control, Optimal Motion Planning and Control, ROS/ROS2, Computer Vision"
+      - name: Robotics & Simulation
+        icon: fa-solid fa-diagram-project
+        keywords: "ROS/ROS2, Matlab/Simulink, MuJoCo, PyBullet, Simcenter Prescan, Simcenter Amesim"
 
-      - name: Machine Learning
-        icon: fa-solid fa-brain
-        keywords: "PyTorch, Reinforcement Learning, Imitation Learning"
+      - name: Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Git, CMake, Docker, LaTeX, Inkscape, Shotcut"
 
-      - name: Simulation Software
-        icon: fa-solid fa-desktop
-        keywords: "Simcenter Prescan, Simcenter Amesim"
 
     Languages:
       - name: Italian
