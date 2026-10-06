@@ -42,6 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-a-2-month-research-visit-at-imt-lucca-dysco-group",
           title: 'I started a 2-month research visit at IMT Lucca – DYSCO group.',
           description: "",
+          section: "News",},{id: "news-i-started-as-project-manager-of-the-cosain-co-designing-safety-control-and-perception-for-autonomous-outdoor-operation-sbo-project-a-collaboration-between-flanders-make-and-ku-leuven-running-from-2026-to-2030",
+          title: 'I started as Project Manager of the COSAIN (Co–Designing Safety, Control and Perception...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
